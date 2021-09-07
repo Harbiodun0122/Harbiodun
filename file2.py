@@ -1,2 +1,2 @@
 hi
-my God is awesome
+"my God is awesome"
